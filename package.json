@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/xinra-oss/prettier-config/issues"
   },
-  "homepage": "https://github.com/xinra-oss/prettier-config#readme"
+  "homepage": "https://github.com/xinra-oss/prettier-config#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
