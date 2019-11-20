@@ -1,0 +1,16 @@
+{
+  "name": "@xinra/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinra-oss/prettier-config.git"
+  },
+  "author": "Erik Hofer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinra-oss/prettier-config/issues"
+  },
+  "homepage": "https://github.com/xinra-oss/prettier-config#readme"
+}
